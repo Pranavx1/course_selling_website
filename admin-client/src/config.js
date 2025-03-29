@@ -1,1 +1,1 @@
-export const BASE_URL = "https://course-selling-website-2.onrender.com";
+export const BASE_URL = " http://13.53.187.173:3000";
