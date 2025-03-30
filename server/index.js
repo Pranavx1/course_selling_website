@@ -6,7 +6,7 @@ const userRouter = require("./routes/user");
 
 const app = express();
 
-app.use(cors({ origin: "https://course-selling-website-yatu.vercel.app" }));
+app.use(cors({ origin: "https://www.pranavx10.live" }));
 app.use(express.json());
 
 app.use("/admin", adminRouter);
