@@ -1,1 +1,1 @@
-export const BASE_URL = " http://13.53.187.173:3000";
+export const BASE_URL = "https://api.pranavx10.live";
